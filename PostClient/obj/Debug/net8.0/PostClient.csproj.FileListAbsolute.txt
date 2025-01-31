@@ -1,0 +1,14 @@
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\bin\Debug\net8.0\PostClient.exe
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\bin\Debug\net8.0\PostClient.deps.json
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\bin\Debug\net8.0\PostClient.runtimeconfig.json
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\bin\Debug\net8.0\PostClient.dll
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\bin\Debug\net8.0\PostClient.pdb
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\obj\Debug\net8.0\PostClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\obj\Debug\net8.0\PostClient.AssemblyInfoInputs.cache
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\obj\Debug\net8.0\PostClient.AssemblyInfo.cs
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\obj\Debug\net8.0\PostClient.csproj.CoreCompileInputs.cache
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\obj\Debug\net8.0\PostClient.dll
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\obj\Debug\net8.0\refint\PostClient.dll
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\obj\Debug\net8.0\PostClient.pdb
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\obj\Debug\net8.0\PostClient.genruntimeconfig.cache
+D:\Ворон\Ворон\PostApi\PostApi\PostClient\obj\Debug\net8.0\ref\PostClient.dll
